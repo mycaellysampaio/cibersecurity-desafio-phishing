@@ -12,10 +12,9 @@
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
+- Método de ataque: ``` Web Template ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.google.com
 
 ### Resutados
-
-![Alt text](./passwd.png "Optional title")
+![image](https://github.com/user-attachments/assets/15ec2de3-6888-4e7e-a0ca-3b0c4bc5e125)
